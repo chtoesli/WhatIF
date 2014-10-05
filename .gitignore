@@ -1,3 +1,7 @@
+# Ignore meta files
+Library/metadata/
+Library/ShaderCache/
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
